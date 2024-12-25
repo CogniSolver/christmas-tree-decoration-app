@@ -23,8 +23,12 @@ Welcome to the **Interactive Christmas Tree Decoration** project! This web-based
 ---
 
 ## 📂 Project Structure
-
-root/ ├── index.html # Main HTML file ├── styles.css # CSS styles ├── script.js # JavaScript for functionality ├── images/ # Contains ornament and tree images └── README.md # Project documentation
+    root/
+        ├── index.html # Main HTML file 
+        ├── styles.css # CSS styles 
+        ├── script.js # JavaScript for functionality 
+        ├── images/ # Contains ornament and tree images 
+        └── README.md # Project documentation
 
 
 ---
@@ -47,6 +51,8 @@ Add new ornament images to the images/ folder.
 Update the script.js file to include your new ornaments.
 Adjust the styling in styles.css to match your personal holiday theme.
 
+## Live Demo: [Christmas Tree](https://cognisolver.github.io/christmas-tree-decoration-app/)
+
 ## 🌟 Future Enhancements
 Add glowing lights and animations to the tree.
 Include festive music in the background.
@@ -62,8 +68,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 🙌 Acknowledgments
 Special thanks to the developers and designers who inspired this project.
 Happy holidays! 🎄🎁
-
-## 🔗 Connect
-Your Portfolio
-Your GitHub
-Your Twitter
